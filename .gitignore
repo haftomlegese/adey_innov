@@ -3,6 +3,7 @@ __pycache__/
 myenv/          
 data/
 outputs/
+notebooks/mlruns
 
 .vscode/      
 
